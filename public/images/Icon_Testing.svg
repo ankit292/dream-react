@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.5" height="75.6" viewBox="0 0 75.5 75.6">
+  <g id="Icon_Testing" transform="translate(0 0)">
+    <path id="Path_159" data-name="Path 159" d="M80.8,5.2H54V19.8h2.4v50a11,11,0,0,0,22,0v-50h2.4ZM67.4,78.3a8.493,8.493,0,0,1-8.5-8.5V27.2H76V69.8A8.644,8.644,0,0,1,67.4,78.3Zm8.5-53.6H58.8V19.8H75.9Zm2.4-7.3H56.4V7.7h2.4V15h2.4V7.7h2.4V15H66V7.7h2.4V15H71V7.7h2.4V15h2.4V7.7h2.4v9.7Z" transform="translate(-5.3 -5.2)" fill="#004f9d"/>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="2.4" height="2.4" transform="translate(65.7 24.4)" fill="#004f9d"/>
+    <rect id="Rectangle_85" data-name="Rectangle 85" width="2.4" height="30.5" transform="translate(65.7 29.3)" fill="#004f9d"/>
+    <path id="Path_160" data-name="Path 160" d="M24.7,19.9h2.4V38.8l-7.3-10L8.1,44.8a14.059,14.059,0,0,0-2.8,8.6V54A14.617,14.617,0,0,0,19.9,68.6a13.779,13.779,0,0,0,7.3-2v3.2a11,11,0,0,0,22,0v-50h2.4V5.2H24.7ZM7.7,54v-.5a11.77,11.77,0,0,1,2.4-7.2l9.8-13.4,9.8,13.4a12.44,12.44,0,0,1,2.4,7.2V54A12.2,12.2,0,0,1,7.7,54ZM38.1,78.3a8.493,8.493,0,0,1-8.5-8.5v-5a14.667,14.667,0,0,0,4.9-10.9v-.5a14.727,14.727,0,0,0-2.8-8.6l-2-2.8V27.2H46.8V69.8A8.732,8.732,0,0,1,38.1,78.3Zm8.6-53.6H29.6V19.8H46.7ZM27.2,7.7h2.4V15H32V7.7h2.4V15h2.4V7.7h2.4V15h2.4V7.7H44V15h2.4V7.7h2.4v9.7H27.2Z" transform="translate(-5.3 -5.2)" fill="#004f9d"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" width="2.4" height="2.4" transform="translate(36.5 24.4)" fill="#004f9d"/>
+    <rect id="Rectangle_87" data-name="Rectangle 87" width="2.4" height="30.5" transform="translate(36.5 29.3)" fill="#004f9d"/>
+    <path id="Path_161" data-name="Path 161" d="M19.9,45.4a8.5,8.5,0,1,0,8.5,8.5A8.493,8.493,0,0,0,19.9,45.4Zm0,14.7A6.1,6.1,0,1,1,26,54,6.124,6.124,0,0,1,19.9,60.1Z" transform="translate(-5.3 -5.2)" fill="#004f9d"/>
+    <path id="Path_162" data-name="Path 162" d="M16.2,54a3.691,3.691,0,0,0,3.7,3.7V55.3a1.2,1.2,0,1,1,0-2.4V50.5A3.413,3.413,0,0,0,16.2,54Z" transform="translate(-5.3 -5.2)" fill="#004f9d"/>
+  </g>
+</svg>

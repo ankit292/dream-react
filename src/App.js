@@ -1,24 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Home from './Modules/Home';
+import AboutDream from './Modules/AboutDream';
+import AboutDrug from './Modules/AboutDrug';
+import AboutDisease from './Modules/AboutDisease';
+import EligibilityForm from './Modules/EligibilityForm';
+
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Router>
+        <Routes>
+                  <Route exact path="/:id" element={<Home />}></Route>
+                  <Route exact path="/AboutDream" element={<AboutDream />}></Route>
+                  <Route exact path="/AboutDrug" element={<AboutDrug />}></Route>
+                  <Route exact path="/AboutDisease" element={<AboutDisease />}></Route>
+                  <Route exact path="/EligibilityForm" element={<EligibilityForm />}></Route>
+        </Routes>
+      </Router>
+      <Footer />
+    </>
   );
 }
 
