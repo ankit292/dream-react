@@ -6,6 +6,7 @@ import AboutDream from './Modules/AboutDream';
 import AboutDrug from './Modules/AboutDrug';
 import AboutDisease from './Modules/AboutDisease';
 import EligibilityForm from './Modules/EligibilityForm';
+import ForHCPs from './Modules/ForHCPs';
 
 import {
   BrowserRouter as Router,
@@ -24,6 +25,7 @@ function App() {
                   <Route exact path="/AboutDrug" element={<AboutDrug />}></Route>
                   <Route exact path="/AboutDisease" element={<AboutDisease />}></Route>
                   <Route exact path="/EligibilityForm" element={<EligibilityForm />}></Route>
+                  <Route exact path="/ForHCPs" element={<ForHCPs />}></Route>
         </Routes>
       </Router>
       <Footer />

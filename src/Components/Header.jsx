@@ -46,7 +46,7 @@ export default function Header() {
 						<a className="nav-a" href="AboutDisease">About SCD</a>
 						</li>
 						<li className="nav-item">
-						<a className="nav-a" href="/">For HCPS</a>
+						<a className="nav-a" href="ForHCPs">For HCPS</a>
 						</li>
 					</ul>
 					</div>
